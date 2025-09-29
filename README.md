@@ -1,0 +1,1 @@
+This project is to have some bases set for HTML.
